@@ -1,0 +1,8 @@
+D:/основа проги/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+D:/основа проги/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/основа проги/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/основа проги/untitled/cmake-build-debug/libs/CMakeFiles/edit_cache.dir
+D:/основа проги/untitled/cmake-build-debug/libs/CMakeFiles/rebuild_cache.dir
+D:/основа проги/untitled/cmake-build-debug/libs/data_structure/CMakeFiles/data_structure.dir
+D:/основа проги/untitled/cmake-build-debug/libs/data_structure/CMakeFiles/edit_cache.dir
+D:/основа проги/untitled/cmake-build-debug/libs/data_structure/CMakeFiles/rebuild_cache.dir
