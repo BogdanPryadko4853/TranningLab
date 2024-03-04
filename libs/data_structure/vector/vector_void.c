@@ -11,7 +11,7 @@ vectorVoid createVectorV(size_t n, size_t baseTypeSize) {
     v.data = malloc(n * baseTypeSize);
     v.size = n;
     v.capacity = n;
-    v.baseTypeSize = baseTypeSize;
+    v.baseTypeSize = baseTypeSize;//commit
     return v;
 }
 
